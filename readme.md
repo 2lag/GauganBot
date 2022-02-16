@@ -4,6 +4,8 @@ A WIP Twitter/Instagram bot that posts AI generated art from NVIDIA's Gaugan2 ap
  -First 200 pictures were generated using a random generated list of 180 adjective and 10 nouns, found [here](https://raw.githubusercontent.com/2lag/GauganBot/main/comboList.txt) entering them as the only method of image generation
  
  -For the remaining pictures, [this](https://raw.githubusercontent.com/2lag/GauganBot/main/randomColors.pde) was used for generating segmentation maps, that would then  be uploaded to Gaugan2, creating the final product
+ 
+ All images can be found [here.](https://github.com/2lag/GauganBot/tree/main/pics)
 
 Twitter Bot coded using Tweepy
  - https://docs.tweepy.org/en/latest/examples.html (python)
