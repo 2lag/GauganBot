@@ -1,5 +1,5 @@
 # GauganBot
-A WIP Twitter/Instagram bot that posts AI generated art from NVIDIA's Gaugan2 application.
+A WIP Twitter/Instagram bot that posts AI generated art from [NVIDIA's Gaugan2 application.](http://gaugan.org/gaugan2/)
 
  -First 200 pictures were generated using a random generated list of 180 adjective and 10 nouns, found [here](https://raw.githubusercontent.com/2lag/GauganBot/main/comboList.txt) entering them as the only method of image generation
  
