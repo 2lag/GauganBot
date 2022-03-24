@@ -5,7 +5,7 @@ A WIP Twitter/Instagram bot that posts AI generated art from [NVIDIA's Gaugan2 a
  
 
  ~~-For the remaining 165 pictures, [this](https://raw.githubusercontent.com/2lag/GauganBot/main/randomColors.pde) was used for generating segmentation maps, that would then be uploaded to Gaugan2, creating the final product~~
-  ###### This ended up not working within the Gaugan2 application for some reason, it was worth a shot though! Ended up using first method for all 365 photos. (256/365 generated so far, 70.1% done!)
+  ###### This ended up not working within the Gaugan2 application for some reason, it was worth a shot though! Ended up using first method for all 365 photos. (275/365 generated so far, 75.34% done!)
 
  
  All images can be found [here.](https://github.com/2lag/GauganBot/tree/main/pics)
