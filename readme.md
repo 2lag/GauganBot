@@ -10,12 +10,12 @@ A WIP Twitter/Instagram bot that posts AI generated art from [NVIDIA's Gaugan2 a
  
  All images can be found [here.](https://github.com/2lag/GauganBot/tree/main/pics)
 
-Twitter Bot coded using Tweepy
- - https://docs.tweepy.org/en/latest/examples.html (python)
+Twitter Bot coded using Tweepy with Python
+ - https://docs.tweepy.org/en/latest/examples.html
 
-Instagram Bot coded using Official FaceBook API
- - https://developers.facebook.com/docs/instagram-basic-display-api
- - https://developers.facebook.com/docs/instagram/sharing-to-feed
+Instagram Bot coded using InstaBot with Python
+ - https://github.com/ohld/igbot/tree/master/instabot/bot
+ - https://instagrambot.github.io/docs/en/
 
 Most recent edit : 4/1/22
 
