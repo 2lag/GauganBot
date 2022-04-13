@@ -14,9 +14,8 @@ Twitter Bot coded using Tweepy with Python
  - https://docs.tweepy.org/en/latest/examples.html
 
 Instagram Bot coded using InstaBot with Python
- - https://github.com/ohld/igbot/tree/master/instabot/bot
- - https://instagrambot.github.io/docs/en/
+ - https://adw0rd.github.io/instagrapi/
 
-Most recent edit : 4/1/22
+Most recent edit : 4/13/22
 
 #### Update : ALL THE PHOTOS ARE FINISHED GENERATING!!! TIME TO CODE!
